@@ -1,1 +1,9 @@
-git pull <-- puxa as informaçoes do git
+git pull   <-- puxa as informaçoes do git
+
+5. Adicione o arquivo ao novo repositório local.
+dir <-- para achar o diretorio e arquivo que deseja que seja feito o push
+git add    <-- em seu bash para adicionar todos os arquivos à pasta fornecida.
+git status <-- em seu bash para ver todos os arquivos que serão testados para o primeiro commit.
+
+6. Confirme os arquivos testados em seu repositório local, escrevendo uma mensagem de confirmação.
+git commit -m 'Olieh sua msg' <-- que adiciona a mudança ao repositório local.
