@@ -1,0 +1,1 @@
+git pull <-- puxa as informaçoes do git
